@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, what's up ?</h1>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, what's up ?</h1>
 <!--     ***************************************************************************************************************************************** -->
 <p align="center">
   <em>
