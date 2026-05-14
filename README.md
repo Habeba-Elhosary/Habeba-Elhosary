@@ -10,25 +10,6 @@
 <p align="center">
   <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Engineering+Student;Flutter+Developer;Aspiring+Learner&center=true&width=500&height=50"></a>
 <!--     ***************************************************************************************************************************************** -->
-</p>
-    
----
-<p>
-<h3>A little more about me :</h3>
-  <img align="right" widht="300" height="200" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" />
-  
-- 👩 I am 21 years old.
-  
-- 🎨 I am a graphic designer and have a little experience in the field of UI/UX.
-  
-- 👯 I’m looking to collaborate with Fullstack Web and Mobile Developement projects.
-  
-- 💬 If you have any questions, feel free to reach out to me. I'm happy to help!
-
-<br>
-
----
-<!--     ***************************************************************************************************************************************** -->
 <details>
 <summary>
 <h3>🛠 Tech stack : </h3>
